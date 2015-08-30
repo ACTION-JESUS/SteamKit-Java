@@ -12,7 +12,7 @@ public class AccountCache {
 
 	public AccountCache() {
 		localUser = new User();
-		localUser.name = "[unassigned]";
+		localUser.name = "MvM Lobby ID Bot";	// TODO:  Need to set this from the steambot project using the property file
 
 		users = new AccountList<User>(User.class);
 		clans = new AccountList<Clan>(Clan.class);
