@@ -27,7 +27,13 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Kuba/Desktop/lombok.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Kuba/Desktop/proto.jar"/>
+	<classpathentry kind="lib" path="/home/tom/dev/libraries/proto.jar"/>
+	<classpathentry kind="lib" path="/home/tom/dev/libraries/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/tom/dev/libraries/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/tom/dev/libraries/bcprov-ext-jdk14-1.47.jar"/>
+	<classpathentry kind="lib" path="/home/tom/dev/libraries/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="/home/tom/dev/libraries/steamkit_resources.jar"/>
+	<classpathentry kind="lib" path="lombok.jar"/>
+	<classpathentry kind="lib" path="/home/tom/dev/libraries/protobuf-java-2.4.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
